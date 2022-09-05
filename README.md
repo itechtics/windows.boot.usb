@@ -1,6 +1,6 @@
 # Windows boot usb
 
-[![Windows boot usb](red2.png)](https://computersolve.com/windows-boot-usb/)
+[![Windows boot usb](red2.png)](https://icncomputer.com/windows-boot-usb/)
 
 * If you have an older PC, you might want to upgrade your operating system at some point. An upgraded OS can make your computing experience smoother so you can get your daily tasks done more quickly.
 
